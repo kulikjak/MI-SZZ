@@ -1,5 +1,4 @@
-
-#MI-SZZ - State Final Exam
+# MI-SZZ - State Final Exam
 
 All of these were done as a part of the preparation for the state exam on FIT CTU. It contains both common (compulsory) courses and MI-SP-SP (System Programming) courses materials. Almost all the materials are written in English, the rest of them is in Czech.
 
